@@ -1,4 +1,6 @@
 # Projeto-Cardapio
- Projeto Cardápido feito tudo do zero
- Com base no canal Sujeito Programador
+ Professor
+ Sujeito Programador
+ Técnologias:
+ HTML, CSS, TailwindCSS, JavaScript 
 #
